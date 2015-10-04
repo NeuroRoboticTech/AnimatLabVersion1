@@ -4,7 +4,7 @@
 // class and contains operator functions for use with STL containers, etc.
 //
 // Author: Ian Duff - 30 December 2001
-// Email : ianduff@bold.net.au
+// Email : isduff@bigpond.com
 // Thanks to: 
 // Dave Merner - direct SQL calls with ODBC
 //
