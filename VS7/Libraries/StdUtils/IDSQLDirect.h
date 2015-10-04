@@ -5,7 +5,7 @@
 // instead of the CPtrArray MFC class.
 //
 // Author: Ian Duff - 30 December 2001
-// Email : ianduff@bold.net.au
+// Email : isduff@bigpond.com
 //
 // Many thanks to Dave Merner for his article on direct SQL calls with ODBC
 //////////////////////////////////////////////////////////////////////
